@@ -1,0 +1,1 @@
+# template-nestjs-jest-linter
